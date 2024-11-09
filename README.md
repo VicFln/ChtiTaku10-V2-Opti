@@ -1,5 +1,7 @@
 # ChtiTaku10-V2-Opti
 
+Pur le telechargement cliquer sur le fichier puis VIEW RAW.
+
 ATTENTION, ne pas update zomify risque de crash
 
 Version améliorer du modpack original que des mods d'opti sont rajouter en moyenne double les fps avec shader et render distance de 32.

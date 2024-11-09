@@ -1,6 +1,6 @@
 # ChtiTaku10-V2-Opti
 
-Pour le telechargement cliquer sur le fichier puis VIEW RAW.
+DOWLOAD: Pour le telechargement cliquer sur le fichier puis VIEW RAW.
 
 !!! !!! ATTENTION, ne pas update zomify risque de crash !!! !!!
 
